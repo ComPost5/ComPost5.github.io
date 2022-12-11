@@ -1,0 +1,25 @@
+.main {
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 350px;
+  margin-left: 15%;
+  margin-right: 15%;
+  border-radius: 10px;
+}
+
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+div a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+div .a3 {
+  text-align: center;
+}
+.a3 a {
+  color: white;
+}

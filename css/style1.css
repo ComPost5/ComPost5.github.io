@@ -1,0 +1,11 @@
+.main {
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, 0.9);
+  min-height: 530px;
+
+  height: 1730px;
+  margin-left: 15%;
+  margin-right: 15%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
